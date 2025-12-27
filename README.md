@@ -163,10 +163,9 @@ classDiagram
 
 ---
 
-## 8. Submission: 
+## 8. Sample Output
 
- GitHub Link: *will add after uploading*  
+Below is the console UI displayed when the project runs:
 
- PR Link: *to be generated during submission*
+![LearnTrack Main Menu](docs/screenshots/main_menu.png)
 
----
